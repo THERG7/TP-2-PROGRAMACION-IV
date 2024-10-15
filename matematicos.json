@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pitágoras",
+        "imagen": "https://filosofia.nueva-acropolis.es/wp-content/uploads/2020/01/pitagoras.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Euclides",
+        "imagen": "https://danteamerisi.wordpress.com/wp-content/uploads/2024/03/euclides-de-alejandria.jpeg?w=1024"
+    },
+    {
+        "id": 3,
+        "nombre": "Arquímedes",
+        "imagen": "https://i.pinimg.com/474x/1e/c4/01/1ec40111a91605d5ee2717eeb5c896ea.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "René Descartes",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3d1CxMTWvMUNoNakg8l77FzyQxlm3rHQdg&s"
+    },
+    {
+        "id": 5,
+        "nombre": "Pierre-Simon Laplace",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoymXdasMGsjU4K4sgZmyFPGGPlpXLNWIU2g&s"
+    },
+    {
+        "id": 6,
+        "nombre": "Leonhard Euler",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEFnF5nIXdqq7Exd_8ZXuqLnXhU7yW8_1vg&s"
+    },
+    {
+        "id": 7,
+        "nombre": "Carl Friedrich Gauss",
+        "imagen": "https://content.nationalgeographic.com.es/medio/2024/04/02/gauss_1d92988a_240402223359_800x1114.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Isaac Newton",
+        "imagen": "https://cdn.prod.website-files.com/64acdf3ff8eba1208e118782/651444c31a743bbc17c3b63a_W0h58QeO01j-EM3x5CsGRna9G7EP-xwhcDhJsMo06c0.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Henri Poincaré",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMpzx9WgXV-ZeCHfxlmwvWvM7Bx6M7AMVdhA&s"
+    },
+    {
+        "id": 10,
+        "nombre": "Joseph Fourier",
+        "imagen": "https://c8.alamy.com/comp/G16EH9/illustration-of-jean-baptiste-joseph-fourier-1768-1830-a-french-mathematician-G16EH9.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Blaise Pascal",
+        "imagen": "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/612ccfa5b3ca00001f63a48b.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "David Hilbert",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUHBQouWKOdtBQAa6e4hbcey6jQLPnW-jzw&s"
+    },
+    {
+        "id": 13,
+        "nombre": "Évariste Galois",
+        "imagen": "https://www.puentecultural.org/main/wp-content/uploads/2022/09/GALOIS.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Georg Cantor",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZV3aD6MztIXbXLRTtqpZGz_XJD2qHdcbMQ&s"
+    },
+    {
+        "id": 15,
+        "nombre": "Srinivasa Ramanujan",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Srinivasa_Ramanujan_-_OPC_-_1.jpg/800px-Srinivasa_Ramanujan_-_OPC_-_1.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "André Weil",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZjzz8kZK9VSIgNRaFtjdDjz1HxKw7HkrE_A&s"
+    },
+    {
+        "id": 17,
+        "nombre": "Alan Turing",
+        "imagen": "https://www.elcorreo.com/xlsemanal/wp-content/uploads/sites/5/2023/04/alan-turing-inventor-informatica-espia-codigo-enigma-segunda-guerra-mundial.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Kurt Gödel",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1CALneHHiyxyD6Zm75ruFQSDh-ndSjvGCxg&s"
+    },
+    {
+        "id": 19,
+        "nombre": "John von Neumann",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0xevbzg8IaVWj7BVmXehVrKakQASTGwhF8A&s"
+    },
+    {
+        "id": 20,
+        "nombre": "Niels Henrik Abel",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ17xXTCCHiVPQT0jgsiZHXbelWnZulDRSSkg&s"
+    },
+    {
+        "id": 21,
+        "nombre": "Sofia Kovalevskaya",
+        "imagen": "https://i0.wp.com/images.fineartamerica.com/images-medium-large/sofiasofya-vasilyevna-kovalevskaya-sheila-terry.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Mary Cartwright",
+        "imagen": "https://cdn.britannica.com/94/260994-050-FCBC4901/photograph-of-british-mathematician-damn-mary-lucy-cartwright-by-walter-stoneman.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "Emmy Noether",
+        "imagen": "https://cdn.britannica.com/91/46991-050-B24B533F/Emmy-Noether.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "John Nash",
+        "imagen": "https://cdn.britannica.com/55/199355-050-A5B77EDB/John-Nash-2007.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "Pierre de Fermat",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNM9GqKzCSw1KQzGGDi4gSK_bNMDYba1gznw&s"
+    },
+    {
+        "id": 26,
+        "nombre": "George Boole",
+        "imagen": "https://c8.alamy.com/comp/2ADGNWG/george-boole-coloured-portrait-of-george-boole-1815-1864-english-mathematician-the-algebra-of-logic-he-developed-boolean-algebra-is-basic-to-t-2ADGNWG.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Gottfried Wilhelm Leibniz",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1BSQiGp3es-k93yWnnfsP3GUeZx8jJkX-g&s"
+    },
+    {
+        "id": 28,
+        "nombre": "Augustin-Louis Cauchy",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZDRD4NOynKD8CNd014MGdPSpQv3qzuWcFQ&s"
+    },
+    {
+        "id": 29,
+        "nombre": "Bernhard Riemann",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHXHXydb7EHHN8ZNFeXkq2mDAwbA8lCYJCAA&s"
+    },
+    {
+        "id": 30,
+        "nombre": "Felix Klein",
+        "imagen": "https://www.ecured.cu/images/7/73/Felix_Christian_Klein_lem%C3%83%C2%A1n.jpg"
+    },
+    {
+        "id": 31,
+        "nombre": "Siméon Denis Poisson",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFYUbOp59lQlbGlMOMSOFAJd5FdLYy27FQNw&s"
+    },
+    {
+        "id": 32,
+        "nombre": "Gaspard Monge",
+        "imagen": "https://i-cms.linternaute.com/image_cms/350/1620155-gaspard-monge-1746-1818.jpg"
+    },
+    {
+        "id": 33,
+        "nombre": "Arthur Cayley",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIqEd8HQSEgl5CZYEWOdQX3KX4kj_qmX52g&s"
+    },
+    {
+        "id": 34,
+        "nombre": "Girolamo Cardano",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyqZM4FFi235rAm5z9V89SdPknTh1xworow&s"
+    },
+    {
+        "id": 35,
+        "nombre": "Nikolai Lobachevsky",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobachevsky.jpg/201px-Lobachevsky.jpg"
+    },
+    {
+        "id": 36,
+        "nombre": "John Horton Conway",
+        "imagen": "https://static01.nyt.com/images/2020/04/18/obituaries/14Conway2/14Conway2-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+        "id": 37,
+        "nombre": "Georg Friedrich",
+        "imagen": "https://www.buscabiografias.com/img/people/Bernhard_Riemann.jpg"
+    },
+    {
+        "id": 38,
+        "nombre": "Paul Erdős",
+        "imagen": "https://www.gf.org/wp-content/uploads/2014/07/Paul-Erdoes-1945-1946_250x250.jpg"
+    },
+    {
+        "id": 39,
+        "nombre": "Grigori Perelman",
+        "imagen": "https://larevistadelsureste.com/wp-content/uploads/2023/08/Neural_G.Perelman_04.png"
+    },
+    {
+        "id": 40,
+        "nombre": "Alexandre Grothendieck",
+        "imagen": "https://i.guim.co.uk/img/media/0b031def6ce266c8b2f9aa12686cf3d3792cd204/0_0_2362_3544/master/2362.jpg?width=445&dpr=1&s=none"
+    },
+    {
+        "id": 41,
+        "nombre": "Jean-Pierre Serre",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS68SIlS2OFUobrvIc6nNKS3j-LxhnCXbg9mA&s"
+    },
+    {
+        "id": 42,
+        "nombre": "William Rowan Hamilton",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_isAtsoPI1nV_EV4kBx2Ftc8pjms4SVWNw&s"
+    },
+    {
+        "id": 43,
+        "nombre": "Joseph-Louis Lagrange",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8FXn_5O9UTw_VhJ319nGswcDNbEQfvyvrQQ&s"
+    },
+    {
+        "id": 44,
+        "nombre": "Michael Atiyah",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_HjzGcjShoVMvGQSjGebYtuj_TIXwR5Qpjw&s"
+    },
+    {
+        "id": 45,
+        "nombre": "Enrico Bombieri",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNOKuYULL_iwOXG6MBdu8HNtbEhLkm5kB-Lg&s"
+    },
+    {
+        "id": 46,
+        "nombre": "Richard Feynman",
+        "imagen": "https://cdn.britannica.com/83/21083-050-C53FAB08/Richard-Feynman.jpg"
+    },
+    {
+        "id": 47,
+        "nombre": "Terence Tao",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfhN_1yhjreHsIs3-9Ggl-13UUIre4Rl4jmg&s"
+    },
+    {
+        "id": 48,
+        "nombre": "Shing-Tung Yau",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jM_29PEUKjgpLtUlnicTP-GZLnzLWP88JQ&s"
+    },
+    {
+        "id": 49,
+        "nombre": "Andrew Wiles",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7eHZkTh4pamYCCpLFCsbNqaee_ziiGZa_PA&s"
+    },
+    {
+        "id": 50,
+        "nombre": "Jacques Hadamard",
+        "imagen": "https://i.pinimg.com/736x/ad/97/e3/ad97e39a519fbfffa2f820fcdeec7f72.jpg"
+    },
+    {
+        "id": 51,
+        "nombre": "Charles Hermite",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDqD8RUoHfsoLaM2c9-FRxJi4zhI1eGEdJNQ&s"
+    },
+    {
+        "id": 52,
+        "nombre": "Emil Artin",
+        "imagen": "https://milwaukeearmenians.com/wp-content/uploads/2016/01/emil-artin_thumb.png"
+    },
+    {
+        "id": 53,
+        "nombre": "Alfred Tarski",
+        "imagen": "https://chipbruce.net/wp-content/uploads/2009/10/alfred_tarski1.jpg?w=300&h=223"
+    },
+    {
+        "id": 54,
+        "nombre": "Paul Dirac",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0V_bFaFV2yB_9Sem2sWcoHj2Prn8jBtm-cA&s"
+    },
+    {
+        "id": 55,
+        "nombre": "John Milnor",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKoOtihaM-LkxXuVfSubEUGjj5LG-VpGq_DQ&s"
+    }
+]
